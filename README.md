@@ -2,7 +2,7 @@
 
 技術書典7で頒布する Game Controller framework 本のサンプルコードのページ。
 
-  
+  　
 
 ## フォルダ内容
 
