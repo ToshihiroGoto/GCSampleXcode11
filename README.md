@@ -13,6 +13,7 @@
 |||macOS|macOS 用 キーボード入力対応|
 |||tvOS|tvOS 用 Siri Remote 対応|
 |||Shared|共有コード & リソースファイル|
+|||GCSample2.xcworkspace|プロジェクトをまとめたワークスペース|
 
   　
 　

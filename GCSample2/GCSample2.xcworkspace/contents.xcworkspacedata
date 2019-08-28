@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "iOS iPadOS">
+      <FileRef
+         location = "group:iOS/GCSample2.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "macOS">
+      <FileRef
+         location = "group:macOS/GCSample2.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "tvOS">
+      <FileRef
+         location = "group:tvOS/GCSample2.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Shared">
+      <FileRef
+         location = "group:Shared/Art.scnassets">
+      </FileRef>
+      <FileRef
+         location = "group:Shared/Character.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Shared/GameController.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Shared/SceneController.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Shared/SimdExtensions.swift">
+      </FileRef>
+   </Group>
+</Workspace>
